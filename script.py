@@ -1,6 +1,6 @@
 import random
 
-enemy = random.choice (["tiger", "border collie", "dipak", "crow","anu","shree"])
+enemy = random.choice (["tiger", "border collie", "deep", "crow","anu","shree"])
 father = random.choice (["Basu", "Mr. Gupta", "wolf", "mark", "Steve", "Bob"])
 enemyadj = ["grimy", "muddy", "awful", "grotesque", "hideous", "adorable", "cute"]
 intro1 = "I was sitting on the edge of the rocky cliff beside my favourite tree."
